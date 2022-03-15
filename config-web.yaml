@@ -1,5 +1,5 @@
 auth:
-  enabled: true
+  enabled: false
   providers:
     - label: "Auth0"
       type: oidc
